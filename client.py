@@ -1,4 +1,4 @@
-#Angeline Babila, Kurt Nivhla Lumibao, Trishia Althea Bonos, Stephanie Tocayon, Block 3-C
+
 #Messaging System with hashing
 #Client
 
